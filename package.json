@@ -1,0 +1,9 @@
+{
+    "name": "cobosafe/contracts",
+    "description": "",
+    "version": "4.9.3",
+    "files": [
+      "**/*.sol",
+      "/build/contracts/*.json"
+    ]
+}
